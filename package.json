@@ -1,0 +1,16 @@
+{
+  "name": "three-js-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.109.0",
+    "three-stl-loader": "^1.0.6",
+    "three.js": "^0.77.1"
+  }
+}
